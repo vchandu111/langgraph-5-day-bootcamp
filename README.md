@@ -85,11 +85,11 @@ Make sure your API keys are set up before running any code that uses LLMs.
 
 | Day | Folder Name                                      | Focus Topics                                      |
 |-----|--------------------------------------------------|---------------------------------------------------|
-| 1   | Day01 - Why LangGraph & Core Concepts           | Why LangGraph, graph mindset, core concepts       |
-| 2   | Day02 - Execution Model & Single-Node Graphs    | Execution model, basic single-node graphs         |
-| 3   | Day03 - Sequential & Parallel Workflows         | Sequential flows, parallel branches, fan-in       |
-| 4   | Day04 - Conditional & Iterative Workflows       | Routing, loops, retries, reflection patterns      |
-| 5   | Day05 - Persistence & Reducers in LangGraph     | Persistence, checkpointing, reducers, reliability |
+| 1   | Why LangGraph & Core Concepts           | Why LangGraph, graph mindset, core concepts       |
+| 2   | Execution Model & Single-Node Graphs    | Execution model, basic single-node graphs         |
+| 3   | Sequential & Parallel Workflows         | Sequential flows, parallel branches, fan-in       |
+| 4   | Conditional & Iterative Workflows       | Routing, loops, retries, reflection patterns      |
+| 5   | Persistence & Reducers in LangGraph     | Persistence, checkpointing, reducers, reliability |
 
 ---
 
