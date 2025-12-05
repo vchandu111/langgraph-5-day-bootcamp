@@ -83,7 +83,7 @@ Make sure your API keys are set up before running any code that uses LLMs.
 
 ## Roadmap Overview
 
-| Day | Folder Name                                      | Focus Topics                                      |
+| Day | Title                                      | Focus Topics                                      |
 |-----|--------------------------------------------------|---------------------------------------------------|
 | 1   | Why LangGraph & Core Concepts           | Why LangGraph, graph mindset, core concepts       |
 | 2   | Execution Model & Single-Node Graphs    | Execution model, basic single-node graphs         |
